@@ -1,40 +1,27 @@
-,,,,Total,,,,Male,,,,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Diagnosis ICD-10,ICD-10 codes2,,Observed deaths,Attributable number3,Attributable percentage4,,Observed deaths,Attributable number3,Attributable percentage4,,Observed deaths,Attributable number3,Attributable percentage4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All deaths,"A00-R99,U00-Y89",,"496,474","77,000",16,,"244,051","47,100",19,,"252,423","29,900",12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All cancers,C00-D48,,"139,066","35,900",26,,"74,568","23,100",31,,"64,498","12,800",20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All respiratory diseases,J00-J99,,"70,839","25,100",35,,"34,627","13,600",39,,"36,212","11,600",32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All circulatory diseases,I00-I99,,"122,620","15,200",12,,"64,502","10,100",16,,"58,118","5,200",9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All diseases of the digestive system,K00-K93,,"23,620",700,3,,"11,879",400,4,,"11,741",300,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,All deaths which can be caused by smoking,,,"237,030","77,000",32,,"126,257","47,100",37,,"110,773","29,900",27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Cancers which can be caused by smoking,,,"68,089","35,900",53,,"38,784","23,100",59,,"29,305","12,800",44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"Trachea, Lung, Bronchus",C33-C34,,"27,660","21,700",78,,"15,009","12,800",86,,"12,651","8,800",70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Upper Respiratory Sites,C00-C14,,"2,446","1,500",62,,"1,661","1,200",70,,785,400,45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Larynx,C32,,685,500,78,,545,400,79,,140,100,72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Oesophagus,C15,,"6,531","4,200",64,,"4,553","3,100",67,,"1,978","1,100",56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Cervical,C53,,664,100,10,,0,0,0,,664,100,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Bladder,C67,,"4,531","1,700",37,,"3,103","1,300",42,,"1,428",400,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Kidney and Renal Pelvis,"C64-C66,C68",,"3,797",900,22,,"2,386",800,32,,"1,411",100,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Stomach,C16,,"3,385",600,19,,"2,185",500,23,,"1,200",100,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Pancreas,C25,,"8,020","1,700",21,,"4,158",800,20,,"3,862",900,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Unspecified site,C80,,"8,052","2,700",33,,"3,841","1,900",50,,"4,211",800,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Myeloid Leukaemia,C92,,"2,318",400,16,,"1,343",300,20,,975,100,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Respiratory diseases which can be caused by smoking,,,"53,976","25,100",47,,"26,179","13,600",52,,"27,797","11,600",42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Chronic Obstructive Lung Disease,J40-J43,,"1,224","1,000",86,,800,700,88,,424,300,81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Chronic Airway Obstruction,J44,,"25,787","19,600",76,,"13,043","10,100",77,,"12,744","9,500",75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"Pneumonia, Influenza",J10-J18,,"26,965","4,500",17,,"12,336","2,800",23,,"14,629","1,700",12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Circulatory diseases which can be caused by smoking,,,"113,303","15,200",13,,"60,378","10,100",17,,"52,925","5,200",10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Other Heart Disease,"I00-I09, I26-I51",,"25,167","3,000",12,,"11,169","1,800",16,,"13,998","1,200",9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Ischaemic Heart Disease,I20-I25,,"51,905","7,000",13,,"32,794","5,000",15,,"19,111","2,000",10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Other Arterial Disease,I72-I78,,"2,538",400,14,,"1,167",200,14,,"1,371",200,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Cerebrovascular Disease,I60-I69,,"29,021","2,300",8,,"12,464","1,500",12,,"16,557",900,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Aortic Aneurysm,I71,,"4,615","2,600",56,,"2,758","1,600",60,,"1,857",900,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Atherosclerosis,I70,,57,0,16,,26,0,25,,31,0,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Diseases of the digestive system which can be caused by smoking,,,"1,662",700,44,,916,400,48,,746,300,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Stomach / Duodenal Ulcer,K25-K27,,"1,662",700,44,,916,400,48,,746,300,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diagnosis ICD-10,Diagnosis ICD-10,ICD-10 codes2,Total: Observed deaths,Total: Attributable number3,Total: Attributable percentage4,Male: Observed deaths,Male: Attributable number3,Male: Attributable percentage4,Female: Observed deaths,Female: Attributable number3,Female: Attributable percentage4
+All deaths,All deaths,"A00-R99,U00-Y89","496,474","77,000",16,"244,051","47,100",19,"252,423","29,900",12
+All cancers,All cancers,C00-D48,"139,066","35,900",26,"74,568","23,100",31,"64,498","12,800",20
+All respiratory diseases,All respiratory diseases,J00-J99,"70,839","25,100",35,"34,627","13,600",39,"36,212","11,600",32
+All circulatory diseases,All circulatory diseases,I00-I99,"122,620","15,200",12,"64,502","10,100",16,"58,118","5,200",9
+All diseases of the digestive system,All diseases of the digestive system,K00-K93,"23,620",700,3,"11,879",400,4,"11,741",300,2
+Cancers which can be caused by smoking,"Trachea, Lung, Bronchus",C33-C34,"27,660","21,700",78,"15,009","12,800",86,"12,651","8,800",70
+Cancers which can be caused by smoking,Upper Respiratory Sites,C00-C14,"2,446","1,500",62,"1,661","1,200",70,785,400,45
+Cancers which can be caused by smoking,Larynx,C32,685,500,78,545,400,79,140,100,72
+Cancers which can be caused by smoking,Oesophagus,C15,"6,531","4,200",64,"4,553","3,100",67,"1,978","1,100",56
+Cancers which can be caused by smoking,Cervical,C53,664,100,10,0,0,0,664,100,10
+Cancers which can be caused by smoking,Bladder,C67,"4,531","1,700",37,"3,103","1,300",42,"1,428",400,28
+Cancers which can be caused by smoking,Kidney and Renal Pelvis,"C64-C66,C68","3,797",900,22,"2,386",800,32,"1,411",100,7
+Cancers which can be caused by smoking,Stomach,C16,"3,385",600,19,"2,185",500,23,"1,200",100,11
+Cancers which can be caused by smoking,Pancreas,C25,"8,020","1,700",21,"4,158",800,20,"3,862",900,23
+Cancers which can be caused by smoking,Unspecified site,C80,"8,052","2,700",33,"3,841","1,900",50,"4,211",800,18
+Cancers which can be caused by smoking,Myeloid Leukaemia,C92,"2,318",400,16,"1,343",300,20,975,100,10
+Respiratory diseases which can be caused by smoking,Chronic Obstructive Lung Disease,J40-J43,"1,224","1,000",86,800,700,88,424,300,81
+Respiratory diseases which can be caused by smoking,Chronic Airway Obstruction,J44,"25,787","19,600",76,"13,043","10,100",77,"12,744","9,500",75
+Respiratory diseases which can be caused by smoking,"Pneumonia, Influenza",J10-J18,"26,965","4,500",17,"12,336","2,800",23,"14,629","1,700",12
+Circulatory diseases which can be caused by smoking,Other Heart Disease,"I00-I09, I26-I51","25,167","3,000",12,"11,169","1,800",16,"13,998","1,200",9
+Circulatory diseases which can be caused by smoking,Ischaemic Heart Disease,I20-I25,"51,905","7,000",13,"32,794","5,000",15,"19,111","2,000",10
+Circulatory diseases which can be caused by smoking,Other Arterial Disease,I72-I78,"2,538",400,14,"1,167",200,14,"1,371",200,14
+Circulatory diseases which can be caused by smoking,Cerebrovascular Disease,I60-I69,"29,021","2,300",8,"12,464","1,500",12,"16,557",900,5
+Circulatory diseases which can be caused by smoking,Aortic Aneurysm,I71,"4,615","2,600",56,"2,758","1,600",60,"1,857",900,50
+Circulatory diseases which can be caused by smoking,Atherosclerosis,I70,57,0,16,26,0,25,31,0,9
+Diseases of the digestive system which can be caused by smoking,Stomach / Duodenal Ulcer,K25-K27,"1,662",700,44,916,400,48,746,300,38
