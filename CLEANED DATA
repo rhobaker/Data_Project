@@ -1,0 +1,22 @@
+import pandas as pd
+
+df = pd.read_csv('ONS_adult_smoking_habits_in_great_britain/ons_adult_smoking_habits_in_great_britain.xlsx')
+
+print("Initial dataset:")
+print(df.head())
+
+df.dropna(inplace=True)
+
+# Fill missing values with a specific value (e.g 'Unknown')
+
+df.fillna('Unknown', inplace=True)
+
+# Remove duplicate rows
+df.drop_duplicates(inplace=True)
+
+# Display the cleaned dataset
+print("Cleaned dataset:")
+print(df.head())
+
+# Save the cleaned dataset to a new file
+df.to_csv('cleaned_dataset.csv', index=False)
