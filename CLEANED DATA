@@ -2,21 +2,28 @@ import pandas as pd
 
 df = pd.read_csv('ONS_adult_smoking_habits_in_great_britain/ons_adult_smoking_habits_in_great_britain.xlsx')
 
-print("Initial dataset:")
-print(df.head())
+def remove_outliers_iqr(df):
+    # Select numeric columns
+    numeric_cols = df.select_dtypes(include=['number']).columns
 
-df.dropna(inplace=True)
+    # Calculate Q1 (25th percentile) and Q3 (75th percentile)
+    Q1 = df[numeric_cols].quantile(0.25)
+    Q3 = df[numeric_cols].quantile(0.75)
+    IQR = Q3 - Q1
 
-# Fill missing values with a specific value (e.g 'Unknown')
+    # Define outliers as those lying outside 1.5 * IQR from Q1 and Q3
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
 
-df.fillna('Unknown', inplace=True)
+    # Filter out outliers
+    df_outliers_removed = df[~((df[numeric_cols] < lower_bound) | (df[numeric_cols] > upper_bound)).any(axis=1)]
+    return df_outliers_removed
 
-# Remove duplicate rows
-df.drop_duplicates(inplace=True)
+# Apply to remove outliers
+df_cleaned = remove_outliers_iqr(df)
 
-# Display the cleaned dataset
-print("Cleaned dataset:")
-print(df.head())
+print("Dataset after removing outliers:")
+print(df_cleaned.head())
 
-# Save the cleaned dataset to a new file
-df.to_csv('cleaned_dataset.csv', index=False)
+# saved the cleaned dataset to a new file
+df_cleaned.to_csv('cleaned_dataset.csv', index=False)
