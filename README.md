@@ -24,6 +24,7 @@ The other files are in csv and Microsoft Excel formats.
 
 ### How to use the files
 The main file is "Main Jupyter Workbook", which contains details of the data analysis we have performed.
+The requirements needed to run it are detailed in the "requirements.txt" file.
 
 To reduce the size of this file and enhance it's readability we have put the data cleaning we performed on our data in separate files in the "Cleaned_Data" folder.
 The "Main Jupyter Workbook" file links to these via URLs.
