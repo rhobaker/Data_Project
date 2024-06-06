@@ -19,19 +19,16 @@ This project is designed to provide an analysis of publically available data in 
 
 
 ### Formats used
-The main file used to provide detailed analysis and data visuliations is the "Main Jupyter Workbook file".  It is a Jupyter notebook and can be viewed directly in GitHub by clicking on the file.  It can also be downloaded to be viewed offline.
+The main file used to provide data cleaning, detailed analysis and data visualisations is the "Main Jupyter Workbook file".  It is a Jupyter notebook and can be viewed directly in GitHub by clicking on the file.  It can also be downloaded to be viewed offline.
 The other files are in csv and Microsoft Excel formats.
 
 ### How to use the files
-The main file is "Main Jupyter Workbook", which contains details of the data analysis we have performed.
+The main file is "Main Jupyter Workbook", which contains details of the data cleaning and analysis we have performed.
 The requirements needed to run it are detailed in the "requirements.txt" file.
-
-To reduce the size of this file and enhance it's readability we have put the data cleaning we performed on our data in separate files in the "Cleaned_Data" folder.
-The "Main Jupyter Workbook" file links to these via URLs.
 
 A downloaded copy of the APIs, which request data directly from the World Health Organisation in the main file can be found in the "API download" folder.
 
-The orginial datasets are also contained in the folder "XX" for reference.
+The orginal datasets are also contained in the folder "XX" for reference. These are referenced in the notebook by their raw URL so will import without needing to be downloaded locally. 
 
 ### The following resources are useful to provide background information of this topic:
 
