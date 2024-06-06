@@ -26,9 +26,9 @@ The other files are in csv and Microsoft Excel formats.
 The main file is "Main Jupyter Workbook", which contains details of the data cleaning and analysis we have performed.
 The requirements needed to run it are detailed in the "requirements.txt" file.
 
-A downloaded copy of the APIs, which request data directly from the World Health Organisation in the main file can be found in the "API download" folder.
+A downloaded copy of the APIs, which request data directly from the World Health Organisation in the main file can be found in the "API download" folder. All other cleaned data files are in the 'Cleaned data' folder. 
 
-The orginal datasets are also contained in the folder "XX" for reference. These are referenced in the notebook by their raw URL so will import without needing to be downloaded locally. 
+The orginal datasets are contained within their own folders, named by the data source they are drawn from. The raw and cleaned CSVs are referenced in the notebook by their raw URL so will import without needing to be downloaded locally. 
 
 ### The following resources are useful to provide background information of this topic:
 
