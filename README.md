@@ -1,4 +1,4 @@
-# This repositiory contains the files for Group 2's CFGDegree Data Science Project 
+# This repository contains the files for Group 2's CFGDegree Data Science Project 
 
 
 ### Group 2's team members are:
@@ -14,7 +14,7 @@ This is our final project before completing our course, in the Data Science spec
 ### Project Description
 This project is designed to provide an analysis of publically available data in order to answer the following two questions:
 
-1. How effective does historic data suggest that government mitigations have been on affecting smoking prevalence?\
+1. How effective does historic data suggest that government mitigations have been on affecting smoking prevalence?
 2. Based on this analysis and the knowledge that legislation will continue to restrict access to tobacco what is the prediction for future smoking rates?
 
 
