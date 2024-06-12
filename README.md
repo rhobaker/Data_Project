@@ -24,6 +24,7 @@ The other files are in csv and Microsoft Excel formats.
 ### How to use the files
 The main file is "Main Jupyter Workbook", which contains details of the data cleaning and analysis we have performed.
 The requirements needed to run it are detailed in the "requirements.txt" file.
+The project document has been uploaded under 'Data project - Group 2 PDF'.
 
 A downloaded copy of the APIs, which request data directly from the World Health Organisation in the main file can be found in the "WHO API Download" folder. All other cleaned data files are in the 'Cleaned_Data' folder. 
 
